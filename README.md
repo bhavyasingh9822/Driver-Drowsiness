@@ -44,6 +44,12 @@ A real-time drowsiness detection system using OpenCV and computer vision techniq
 2. Install all dependencies
 ```
 pip install -r requirements.txt
+opencv-python
+dlib
+imutils
+numpy
+playsound
+
 
 ```
 3. Run the detection system:
